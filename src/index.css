@@ -1,0 +1,7 @@
+*{
+  background-color: teal;
+  font-family: "Gilroy";
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
